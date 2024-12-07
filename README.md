@@ -61,6 +61,10 @@ project-folder/
 ├── README.md              # Documentation file
 ```
 
+## Code
+
+The complete implementation of the log analysis is available in the https://github.com/AniketOvhal18/VRV-Python-Intern-Assignment/blob/main/vrv%20assignment.ipynb file.
+
 ## How to Run the Script
 
 1. Clone the repository to your local machine:
